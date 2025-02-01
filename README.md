@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Samuel Areola
 - 👀 I’m interested in AI & Automation and machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects related to machine learnig
-- 📫 My twitter username is @zuttrax_A, Telegram is @mistyvault
+- 🌱 Frontend developer / Node.JS / Python
+- 💞️ I’m looking to collaborate on projects related to Front end development and machine learnig
+- 📫 My twitter username is @zuttrax_A, Telegram is @zutt_x
+- 
 - 
 
 <!---
